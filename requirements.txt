@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+strawberry-graphql
+sqlalchemy
+asyncpg
+psycopg2-binary
+python-jose[cryptography]
+passlib[bcrypt]
+slowapi
